@@ -1,4 +1,4 @@
-# 🧠 AI Learning Assistant
+# 🧠 PioneerAI: AI Learning Assistant
 
 An AI-powered learning tool that processes YouTube videos and PDFs to generate flashcards, quizzes, and enables contextual chat using Retrieval-Augmented Generation (RAG).
 
